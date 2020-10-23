@@ -20,7 +20,6 @@
     "nodemon": "^2.0.5"
   },
   "scripts": {
-    "client-install": "npm install",
     "client": "react-scripts start",
     "server": "nodemon server.js",
     "deploy": "react-scripts build",
